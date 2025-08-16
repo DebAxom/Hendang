@@ -44,7 +44,8 @@ hendang reset
 ```
 
 ## Downloading a test file
-The test file is a Thai Ganesh prayer song.
+The test file is an image of Lord Narayan (Vishnu) in Thai iconography.
+[Original Link to the Pic](https://www.pinterest.com/pin/6614730697079380/)
 ```
-hendang download https://raw.githubusercontent.com/DebAxom/Hendang/refs/heads/main/download/thai-ganesh.chd thai-ganesh-prayer
+hendang download https://raw.githubusercontent.com/DebAxom/Hendang/refs/heads/main/download/narayan.chd thai-narayan
 ```
